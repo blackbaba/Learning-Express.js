@@ -1,1 +1,1 @@
-**Exercises and project work for Manning's Express in Action textbook**
+**Exercises and project work for Manning's _Express in Action_ textbook**
